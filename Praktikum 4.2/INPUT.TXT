@@ -1,0 +1,24 @@
+a150
+mov ax, 6C
+mov si, 47
+mov bx, 200
+mov [bx], si
+add ax, [bx]
+int 20
+
+u150
+t=150
+r
+t
+r
+t
+r
+t
+d200
+t
+r
+t
+r
+e100 "Andi Susilo"
+d100
+q

@@ -1,0 +1,6 @@
+DOSBox version 0.74-3
+Copyright 2002-2019 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file C:\Users\aryaf\AppData\Local\Temp\praktikum-4-2-dosbox\full.conf
+MIDI:Opened device:win32
+SHELL:Redirect input from c:\NOW.TXT
